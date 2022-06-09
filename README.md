@@ -1,0 +1,1 @@
+# eduspot.json
