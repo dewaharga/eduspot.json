@@ -1,0 +1,38 @@
+﻿{
+  "name": "EDUspot",
+  "short_name": "Eduspot",
+  "start_url": "https://edu.wikisspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Our rental fleet includes concrete pump rental, rent car, rent car near me and many more..",
+  "icons": [{
+    "src":https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzPndqqws7Owbv6YXB1AqEG1SKwZsZHmSg_n-JpyYt2cmc8sL3G_Wdyb6n3RqHk_zAqzxP4-flGqIaorpwJysIL1XgTwPjFlMwaJaYG9QBKad_42y_LBrVRHPKZajDSJVg9KLUVz9CYY-c607HXXmEifq9SmOF_agskSm1MMtskR8AHcjo8NVpQ9Q/s48/Eduspot.png=s48",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzPndqqws7Owbv6YXB1AqEG1SKwZsZHmSg_n-JpyYt2cmc8sL3G_Wdyb6n3RqHk_zAqzxP4-flGqIaorpwJysIL1XgTwPjFlMwaJaYG9QBKad_42y_LBrVRHPKZajDSJVg9KLUVz9CYY-c607HXXmEifq9SmOF_agskSm1MMtskR8AHcjo8NVpQ9Q/s72/Eduspot.png=s72",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzPndqqws7Owbv6YXB1AqEG1SKwZsZHmSg_n-JpyYt2cmc8sL3G_Wdyb6n3RqHk_zAqzxP4-flGqIaorpwJysIL1XgTwPjFlMwaJaYG9QBKad_42y_LBrVRHPKZajDSJVg9KLUVz9CYY-c607HXXmEifq9SmOF_agskSm1MMtskR8AHcjo8NVpQ9Q/s96/Eduspot.png=s96",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzPndqqws7Owbv6YXB1AqEG1SKwZsZHmSg_n-JpyYt2cmc8sL3G_Wdyb6n3RqHk_zAqzxP4-flGqIaorpwJysIL1XgTwPjFlMwaJaYG9QBKad_42y_LBrVRHPKZajDSJVg9KLUVz9CYY-c607HXXmEifq9SmOF_agskSm1MMtskR8AHcjo8NVpQ9Q/s144/Eduspot.png=s144",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzPndqqws7Owbv6YXB1AqEG1SKwZsZHmSg_n-JpyYt2cmc8sL3G_Wdyb6n3RqHk_zAqzxP4-flGqIaorpwJysIL1XgTwPjFlMwaJaYG9QBKad_42y_LBrVRHPKZajDSJVg9KLUVz9CYY-c607HXXmEifq9SmOF_agskSm1MMtskR8AHcjo8NVpQ9Q/s168/Eduspot.png=s168.jpg",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzPndqqws7Owbv6YXB1AqEG1SKwZsZHmSg_n-JpyYt2cmc8sL3G_Wdyb6n3RqHk_zAqzxP4-flGqIaorpwJysIL1XgTwPjFlMwaJaYG9QBKad_42y_LBrVRHPKZajDSJVg9KLUVz9CYY-c607HXXmEifq9SmOF_agskSm1MMtskR8AHcjo8NVpQ9Q/s192/Eduspot.png=s192.jpg",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzPndqqws7Owbv6YXB1AqEG1SKwZsZHmSg_n-JpyYt2cmc8sL3G_Wdyb6n3RqHk_zAqzxP4-flGqIaorpwJysIL1XgTwPjFlMwaJaYG9QBKad_42y_LBrVRHPKZajDSJVg9KLUVz9CYY-c607HXXmEifq9SmOF_agskSm1MMtskR8AHcjo8NVpQ9Q/s512/Eduspot.png=s512",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
